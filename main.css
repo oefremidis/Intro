@@ -1,3 +1,29 @@
 h1 {
     background-color: red;
 }
+
+img {
+    width:50px;
+}
+
+#green-text {
+    background-color: green;
+}
+
+.mag-text {
+    color: magenta;
+}
+
+#btn {
+    /* border: yellow dotted 2px; */
+    border-radius: 100px;
+    padding: 10px;
+    margin:20px;
+    background-color: navy;
+    color: white;
+    width: 150px;
+    text-align: center;
+    
+
+}
+
